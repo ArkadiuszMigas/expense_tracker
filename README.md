@@ -1,3 +1,2 @@
 # expense_tracker
-
-A new Flutter project.
+Flutter project made while doing course.
